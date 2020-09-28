@@ -1,6 +1,6 @@
-var arrayTypes = undefined;
-var pivotTypes = undefined;
-var displaying = undefined;
+let arrayTypes = undefined;
+let pivotTypes = undefined;
+let displaying = undefined;
 
 function getColor(value, minValue, maxValue) {
 	let s = 100;
